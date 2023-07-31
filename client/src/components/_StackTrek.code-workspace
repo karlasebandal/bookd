@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"name": "database-practice",
+			"path": "../../../../../backend-project/5.3.1-postgre/database-practice"
+		},
+		{
+			"name": "perntodoapp",
+			"path": "../../../../../backend-project/perntodoapp"
+		},
+		{
+			"name": "users-administration",
+			"path": "../../../../../users-administration"
+		},
+		{
+			"name": "users-administration",
+			"path": "../../../../../backend-project/auth/users-administration"
+		}
+	],
+	"settings": {}
+}
