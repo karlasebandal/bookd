@@ -1,5 +1,4 @@
-import React from 'react'
-import React, { useState } from "react";
+import React, { useState } from "react"
 import banner from '../assets/images/raft-photos/banner.jpg';
 
 const Banner = () => {
