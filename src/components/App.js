@@ -10,6 +10,7 @@ function App() {
     <div className="App" class="flex flex-col">
       <NavBar />
       <Banner />
+      
       {/* <Router>
         <Switch>
           <Route>
